@@ -1,0 +1,8 @@
+
+
+	Notas acerca das categorias (sub-pastas da pasta de comandos) :
+
+		- Pode nomear as categorias como você quiser, mas tenha cuidado com:
+		  (dentro da pasta "categoria1" existe um exemplo para um comando, que explica a importância das categorias. Recomendo dar uma olhada!)
+
+			• O nome da categoria (sub-pasta da pasta de comandos) deve ser o mesmo nome presente no ficheiro do seu comando, na zona "category"
